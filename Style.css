@@ -1,0 +1,26 @@
+
+ p {
+     font-size: 60px;
+     font-style: italic;
+     font-weight: bold;
+ }
+ 
+ p2 {
+     background-color: blue;
+     color: red;
+     font-size: 50px;
+     font-style: italic;
+ }
+ 
+ button {
+     font-size: 40px;
+     background-color: blue;
+     color: black;
+ }
+ 
+ p3 {
+     background-color: blue;
+     color: red;
+     font-size: 40px;
+     font-style: italic;
+ }
