@@ -1,4 +1,5 @@
-git-commit -m "update"
+git add,git commit, git push
+
 
 
 
